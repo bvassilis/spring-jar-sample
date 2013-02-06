@@ -7,6 +7,6 @@ $mvn clean install assembly:assembly
 
 Run App
 ---------
-$cd {project}/target
+$cd {project}/target <br/>
 $java -jar {project}.jar
 

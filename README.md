@@ -1,4 +1,12 @@
-spring-jar-sample
-=================
+Spring Jar Sample
+==================
 
-Spring Jar Application Sample
+Build
+-----
+$mvn clean install assembly:assembly
+
+Run App
+---------
+$cd {project}/target
+$java -jar {project}.jar
+
